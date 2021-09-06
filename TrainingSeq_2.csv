@@ -1,0 +1,6 @@
+,0,1,2,3,4,5,6,7,8,TrialType,CorrAnswer
+0,tones/A4.wav,tones/E4.wav,tones/F4.wav,tones/A4sharp.wav,tones/C4.wav,tones/C4sharp.wav,tones/G4sharp.wav,tones/D4sharp.wav,tones/D4sharp.wav,Match,Left
+1,tones/E4.wav,tones/D4sharp.wav,tones/C4.wav,tones/A4.wav,tones/G4.wav,tones/F4.wav,tones/G4sharp.wav,tones/F4sharp.wav,tones/D4.wav,Mismatch,Right
+0,tones/A4.wav,tones/E4.wav,tones/A4sharp.wav,tones/D4sharp.wav,tones/C4.wav,tones/B4.wav,tones/F4sharp.wav,tones/G4sharp.wav,tones/G4.wav,Mismatch,Right
+1,tones/F4.wav,tones/F4sharp.wav,tones/D4.wav,tones/C4sharp.wav,tones/D4sharp.wav,tones/B4.wav,tones/G4sharp.wav,tones/A4sharp.wav,tones/A4sharp.wav,Match,Left
+2,tones/D4sharp.wav,tones/A4.wav,tones/F4.wav,tones/F4sharp.wav,tones/C4.wav,tones/E4.wav,tones/G4sharp.wav,tones/B4.wav,tones/C4sharp.wav,Mismatch,Right
